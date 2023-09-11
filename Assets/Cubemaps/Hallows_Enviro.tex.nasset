@@ -9,6 +9,7 @@
     "usage_flags": 6,
     "array_size": 6,
     "bc_data": {},
+    "flags": 16,
     "astc_data": {
         "format": 171,
         "mipmap_info": [
